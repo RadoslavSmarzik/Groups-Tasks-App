@@ -1,0 +1,14 @@
+.one-task-card {
+    font-size: 30px;
+    max-width: 500px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.title h5{
+    font-size: 80px;
+}
+
+.bold {
+    font-weight: bolder;
+}

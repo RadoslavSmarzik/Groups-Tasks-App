@@ -1,0 +1,13 @@
+.form {
+    max-width: 500px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.input-item {
+    margin-bottom: 10px;
+}
+
+.my-alert {
+    margin-top: 10px;
+}

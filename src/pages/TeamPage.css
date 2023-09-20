@@ -1,0 +1,21 @@
+.team-page {
+    margin: 0 10%;
+}
+
+.buttons-and-add {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 30px;
+    margin-right: 30px;
+    align-items: start;
+}
+
+@media screen and (max-width: 500px) 
+{
+
+    .team-page {
+        margin: 0 0;
+    } 
+
+}

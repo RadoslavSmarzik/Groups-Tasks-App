@@ -1,0 +1,10 @@
+.login-form {
+    max-width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.login-input-item {
+    margin-bottom: 10px;
+}
